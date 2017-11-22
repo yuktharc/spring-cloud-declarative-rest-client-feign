@@ -1,0 +1,1 @@
+# spring-cloud-declarative-rest-client-feign
